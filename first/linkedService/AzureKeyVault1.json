@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVault1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://datastorageaccfactory.blob.core.windows.net/container/testvm.rdp"
+		}
+	}
+}
