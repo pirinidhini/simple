@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureKeyVault",
 		"typeProperties": {
-			"baseUrl": "https://dataf.vault.azure.net/secrets/secret/b122279daaa14110bc6f11abb12af999"
+			"baseUrl": "https://dataf.vault.azure.net/"
 		}
 	}
 }
