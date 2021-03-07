@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "AzureKeyVault",
 		"typeProperties": {
-			"baseUrl": "https://newstorage.blob.core.windows.net/new"
+			"baseUrl": "https://newstorage.blob.core.windows.net"
 		}
 	}
 }
